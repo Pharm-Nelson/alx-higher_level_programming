@@ -72,4 +72,4 @@ class Square:
                 print("#", end="")
             print()
         if self.__size is 0:
-            print():
+            print()
